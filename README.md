@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**rootkitlove/rootkitlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+card = {
+    "name": "root",
+    "title": "Android/Kernel Developer",
+    "focus": "Kernel Development",
+    "email": "rootkitlove@proton.me", 
+    "link": "https://github.com/rootkitlove",
+    "contribution": "1,415 commits last year",
+    "description": "Low-level specialist in Android kernels and system security."
+}
